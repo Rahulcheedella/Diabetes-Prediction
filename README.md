@@ -25,12 +25,19 @@ The dataset used is the Kaggle dataset.
 It includes medical predictors such as:
 
 --> Pregnancies
+
 --> Glucose
+
 --> Blood Pressure
+
 --> Skin Thickness
+
 --> Insulin
+
 --> BMI
+
 --> Diabetes Pedigree Function
+
 --> Age
 
 👉 The target variable is whether the patient has diabetes (0 = No, 1 = Yes).
