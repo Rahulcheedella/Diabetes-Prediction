@@ -52,11 +52,17 @@ The model was trained and evaluated using train-test split and achieved high acc
 📦 Dependencies
 
 Python 3.10+
+
 Flask 3.0.3
+
 scikit-learn 1.5.1
+
 numpy 1.26.4
+
 pandas 2.2.2
+
 joblib 1.4.2
+
 gunicorn (for deployment)
 
 🤝 Contributing
